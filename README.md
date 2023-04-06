@@ -31,7 +31,7 @@ Assalamu alaykum,  This is a best sms boomb tools for forever.
 
        pip2 install futures
 
-       git clone https://github.com/shahariar001M/ERROR-Random.git
+       git clone https://github.com/shahariar001M/Super-Best-Sms.git
 
        cd Super-Best-Sms
 

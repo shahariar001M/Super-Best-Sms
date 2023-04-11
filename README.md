@@ -36,6 +36,9 @@ Assalamu alaykum,  This is a best sms boomb tools for forever.
        cd Super-Best-Sms
 
        python S-Fire.py
+       
+Username :        sms
+Password :        fire
 
 [ Note : This tools are best in Sms Boombing tools. You can bomb a lot of sms by the amount of just 1.So enjoy it to use. ]
 
